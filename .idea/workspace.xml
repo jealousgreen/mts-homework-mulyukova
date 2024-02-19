@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d44d60a-7dbf-4928-9b91-e94deae14a4f" name="Changes" comment="dev 1" />
+    <list default="true" id="6d44d60a-7dbf-4928-9b91-e94deae14a4f" name="Changes" comment="dev 2">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +32,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="develop" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -41,6 +47,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2cJhkMun3zX2aN9GVwQifb9BZvY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -64,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707835730774</updated>
-      <workItem from="1707835734897" duration="2380000" />
+      <workItem from="1707835734897" duration="3350000" />
     </task>
     <task id="LOCAL-00001" summary="test 1">
       <created>1707836472069</created>
@@ -80,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707836941495</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="dev 2">
+      <created>1707838355136</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707838355136</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +126,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test 1" />
     <MESSAGE value="dev 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="dev 1" />
+    <MESSAGE value="dev 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="dev 2" />
   </component>
 </project>
