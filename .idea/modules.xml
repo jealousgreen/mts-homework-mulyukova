@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/lecture-two.iml" filepath="$PROJECT_DIR$/lecture-two.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/.idea/java-test.iml" filepath="$PROJECT_DIR$/.idea/java-test.iml" />
->>>>>>> develop
+      <module fileurl="file://$PROJECT_DIR$/.idea/mts-homework-mulyukova.iml" filepath="$PROJECT_DIR$/.idea/mts-homework-mulyukova.iml" />
     </modules>
   </component>
 </project>
